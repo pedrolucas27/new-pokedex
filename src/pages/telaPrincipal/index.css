@@ -1,0 +1,14 @@
+.container-main{
+    width: 100% !important;
+    min-height: 100vh !important;
+   
+}
+
+.container-list{
+    display: flex;
+    justify-content: center;
+}
+
+.row{
+    width: 70%;
+}
