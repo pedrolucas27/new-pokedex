@@ -39,8 +39,8 @@ const App = (): JSX.Element => {
       <div className="container-list">
         <Row gutter={[14, 14]} className="row">
           {lista.map((item) => (
-            <Col span={6}>
-              <CardPokemon objeto={item} key={item.cod} />
+            <Col span={6} key={item.cod}>
+              <CardPokemon objeto={item} />
             </Col>
           ))}
         </Row>
