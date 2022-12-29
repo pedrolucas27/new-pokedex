@@ -1,0 +1,13 @@
+[x] O que é o ReactJs.
+[x] Como criar um projeto.
+[x] Estrutura do projeto.
+[x] Conceito de componente.
+[x] Jsx.
+[x] O que são props.
+[x] Listas e Chaves.
+
+[x] Hooks: useEffect e useState.
+[x] Como consumir uma api utilizando Js.
+
+
+Rota da API: https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json
